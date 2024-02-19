@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://safiullahkorai-786.github.io/ALPHA-TASK",
+  "homepage": "https://safiullahkorai-786.github.io/codespaces-project-template-js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://safiullahkorai-786.github.io/ALPHA-TASK'",
+    "build-gh": "parcel build --public-url 'https://safiullahkorai-786.github.io/codespaces-project-template-js'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
